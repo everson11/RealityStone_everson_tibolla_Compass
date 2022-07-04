@@ -20,7 +20,7 @@
 - git > 2.36.1
 ```
 
-# ⏳ Instalação:
+## ⏳ Instalação:
 ## -GIT
 1. Baixar o Git em seu desktop - versão utilizada: 2.37.0 
 2. Executar o instalador.
@@ -38,27 +38,27 @@
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
- # ♟️ Execução dos Koans:
+ ## ♟️ Execução dos Koans:
   ```sh
  ruby about_"name".rb
  ```
  
-# ♟️ Execução TDD Calculadora:
+## ♟️ Execução TDD Calculadora:
  ```sh
  rspec specs\calculadora_spec.rb
  
  ```
- # 🙋‍♂️Autor
+## 🙋‍♂️Autor
 ### Everson Tibolla Benedetti
 - GitHub > https://github.com/everson11 <
 - LinkedIn > https://www.linkedin.com/in/everson-tibolla-benedetti-438514225/ <
 
 
-# 📑 Licença
+## 📑 Licença
 Copyright © 2022 [Everson Tibolla Benedetti](https://github.com/everson11)<br>
 Copyright © 2022 [Compass.uol](https://compass.uol/)
 
-# ✔️ Créditos
+## ✔️ Créditos
 - [Documentação GIT](https://git-scm.com/doc)
 - [Documentação Ruby](https://www.ruby-lang.org/pt/documentation/)
 
