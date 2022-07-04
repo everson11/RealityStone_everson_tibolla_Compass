@@ -45,7 +45,7 @@
  
 ## ♟️ Execução TDD Calculadora:
  ```sh
- rspec specs\calculadora_spec.rb
+ rspec TDD\specs\calculadora_spec.rb
  
  ```
 ## 🙋‍♂️Autor
