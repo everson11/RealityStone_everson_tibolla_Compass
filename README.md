@@ -1,5 +1,5 @@
 <h1 align="center">Everson Tibolla Benedetti 👋</h1>
-<h3 align="center"> Challenge compass/ Sprint 4</h3>
+<h3 align="center"> Challenge compass | Sprint 4</h3>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
